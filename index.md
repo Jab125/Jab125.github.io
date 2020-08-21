@@ -1,4 +1,5 @@
-
+<!DOCTYPE html>
+<html>
 <body>
 <div id="todaysDate"></div>
 <script>
@@ -16,3 +17,4 @@ setInterval(getTime, 1);
 </script>
 </body>
 
+</html>
