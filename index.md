@@ -1,5 +1,6 @@
 <html>
 <body>
+<meta name="apple-itunes-app" content="app-id=1526129876, app-clip-bundle-id=com.jab125.Jab125-Tally-Counter">
 <div id="todaysDate"></div>
 <script>
 function getTime() {
